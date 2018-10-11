@@ -1,0 +1,2 @@
+# BasicProject
+Dijango öğreniyorum
